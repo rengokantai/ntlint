@@ -4,6 +4,7 @@ public class L61SearchforaRange {
      * @param target: an integer to be inserted
      * @return: a list of length 2, [index1, index2]
      */
+    // jz gp 1
     public int[] searchRange(int[] A, int target) {
         // write your code here
         int[] ans = new int[2];
