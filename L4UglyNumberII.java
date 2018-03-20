@@ -1,5 +1,5 @@
 class L4UglyNumberII {
-    //jz algo9 2
+    //jz algo8 2
     /**
      * @param n an integer
      * @return the nth prime number as description.
