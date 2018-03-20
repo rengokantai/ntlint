@@ -1,5 +1,5 @@
 public class L134LRUCache {
-    //jiuzhang algo 9
+    //jiuzhang algo 8
     private class Node{
         Node prev;
         Node next;
